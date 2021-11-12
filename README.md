@@ -1,5 +1,8 @@
 # Em Construção
 
+<p align="center">
+  <img width="1000" height="400" src="https://static.seattletimes.com/wp-content/uploads/2020/04/04242020_forsalesignWA_000009-1560x917.jpg"/>
+</p>
 
 
 **Aviso:** O seguintes dados foram retirado do site https://www.kaggle.com/harlfoxem/housesalesprediction, a empresa existe e os resultados apresentados nesse projeto não tem vínculo com os resultados reais da empresa, o contexto, o CEO, e as questões de negócios existem apenas para elaboração desse contexto.
