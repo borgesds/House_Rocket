@@ -1,7 +1,7 @@
 # Em Construção House Rocket
 
 <p align="center">
-  <img width="1000" height="400" src="https://static.seattletimes.com/wp-content/uploads/2020/04/04242020_forsalesignWA_000009-1560x917.jpg"/>
+  <img width="1000" height="380" src="https://static.seattletimes.com/wp-content/uploads/2020/04/04242020_forsalesignWA_000009-1560x917.jpg"/>
 </p>
 
 
@@ -15,40 +15,33 @@ Entretanto, as casas possuem muitos atributos que as tornam mais ou menos atrati
 
 # Questão de negócio
 
-    1- Identifique a causa raíz.
-    
-Porque o CEO fez essas perguntas? Se você fosse ele, porque você perguntaria isso? Quer aumentar receita? A empresa está indo bem?
-Anote essas causas.
-
-    2. Colete os dados 
-    
-    3. Aplique uma limpeza nos dados.
-    
-Entenda as variáveis disponíveis, possíveis valores faltantes, faça uma estatística descritiva para entender as características dos dados.
-
-    4. Levante Hipóteses sobre o Comportamento do Negócio.
-    
-Casas com garagens são mais caras? Porque?
-Casas com muitos quartos são mais caras? Porque? A partir de quantos quartos o preço aumenta? Qual o incremento de preço por cada quarto adicionado?
-As casas mais caras estão no centro? Qual a região? Existe alguma coisa na região que tem correlação com valor de venda da casa? Shoppings? Montanhas? Pessoas Famosas?
-
-    5. Faça uma ótima Análise Exploratória de Dados.
-    
-Quais hipóteses são falsas e quais são verdadeiras?
-Quais as correlações entre as variáveis e a variável resposta?
-
-    6. Escreve os Insights que você encontrou
-    
-    7. Escreve possíveis soluções para o problema do CEO.
+A principal estratégia é comprar boas casas em ótimas localizações com preços baixos e depois revendê-las posteriormente à preços mais altos. Quanto maior a diferença entre a compra e a venda, maior o lucro da empresa e portanto maior sua receita.
 
 
 # Problema de Negócio
 
+O CEO da empresa fez uma reunião e colocou alguns pontos para que as casas fossem compradas:
+
+As casas possuem muitos atributos que as tornam mais ou menos atrativas aos compradores e vendedores e a localização e o período do ano também podem influenciar os preços.
+
+**Perguntas:**
+
+1- Quais casas o CEO da House Rocket deveria comprar e por qual preço de compra?
+
+2- Uma vez a casa em posse da empresa, qual o melhor momento para vendê-las e qual seria o preço da venda?
+
+3- A House Rocket deveria fazer uma reforma para aumentar o preço da venda? Quais seriam as sugestões de mudanças? Qual o incremento no preço dado por cada opção de reforma?
 
 
 # Planejamento da Solução
 
+Com a primeira análise dos dados, verificamos o mínimo, maximo, média, mediana e outras variáveis para ter um ponto de partida:
 
+
+![521](https://user-images.githubusercontent.com/82332461/141848094-8e7bcc77-3e19-49c8-9000-7e30ae8d2526.png)
+
+Com esses dados em mãos, foi discutido com o CEO alguns pontos de interesse. O nosso imóvel mais barato é $75 mil dólares e o mais caro é $7.700 milhões de dólares, a média de preço dos imóveis é de $540 mil dólares e a mediana é $450 mil dólares.
+A conclusão do CEO foi em estimar as compra abaixo da mediana e verificar as melhores casas com vista para a água que tiverem abaixo de $800 mil dólares.
 
 ## Como será o caminho para a solução?
 
