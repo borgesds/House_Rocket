@@ -28,9 +28,8 @@ As casas possuem muitos atributos que as tornam mais ou menos atrativas aos comp
 
 1- Quais casas o CEO da House Rocket deveria comprar e por qual preço de compra?
 
-2- Uma vez a casa em posse da empresa, qual o melhor momento para vendê-las e qual seria o preço da venda?
 
-3- A House Rocket deveria fazer uma reforma para aumentar o preço da venda? Quais seriam as sugestões de mudanças? Qual o incremento no preço dado por cada opção de reforma?
+2- A House Rocket deveria fazer uma reforma para aumentar o preço da venda? Quais seriam as sugestões de mudanças? Qual o incremento no preço dado por cada opção de reforma?
 
 
 # Planejamento da Solução
