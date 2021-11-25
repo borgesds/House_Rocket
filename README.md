@@ -191,9 +191,27 @@ A conclusão do CEO foi em estimar as compra abaixo da mediana e verificar as me
 - O lucro da vendas das 10902 casas é de $591561306.9.
 
 
- 
+# Entrega de relatório para o CEO em Power BI
+
+- Relatório
+- Link: https://app.powerbi.com/reportEmbed?reportId=1481225c-01ac-4661-b480-8acf556130b2&autoAuth=true&ctid=b03a38b6-aa75-4869-98ba-358ae3217495&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWJyYXppbC1zb3V0aC1iLXByaW1hcnktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D
+
+![00](https://user-images.githubusercontent.com/82332461/143474094-1b66832f-130d-4f9c-ad65-3ed9aa01d54c.png)
+
+![01](https://user-images.githubusercontent.com/82332461/143474115-fc88147e-73b5-470d-9bd6-eba16bbb2a16.png)
+
+![02](https://user-images.githubusercontent.com/82332461/143474121-1cc4822f-0817-451d-96d0-790ae8dec66c.png)
+
+![03](https://user-images.githubusercontent.com/82332461/143474139-6d988179-769e-4ff0-9298-9235f80df320.png)
+
+![04](https://user-images.githubusercontent.com/82332461/143474152-ec30ec5c-2bcf-45fc-ac0d-4bbe152bbc64.png)
 
 
+## Vídeo
+
+
+
+https://user-images.githubusercontent.com/82332461/143482482-2d70080b-6c39-4577-9e4d-2fdbcebed956.mp4
 
 
 
